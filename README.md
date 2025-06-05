@@ -153,8 +153,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)  
-LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
+GitHub: [@yourusername](https://github.com/Dagi2212)  
+LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dagmawi-shewaye-629301316/)
 
 ---
 
@@ -172,7 +172,7 @@ LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
 
 ### Before pushing, make sure you have:
 
-1. ✅ Replaced placeholders (`yourusername`, `Your Name`, etc.)  
+1. ✅ Replaced placeholders (`Dagi2212`, `Dagmawi Shewaye`, etc.)  
 2. ✅ Added your actual contact details  
 3. ✅ Tested the app  
 4. ✅ Cleaned up code (removed `console.log`s, etc.)
