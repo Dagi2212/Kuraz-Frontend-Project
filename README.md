@@ -47,7 +47,7 @@ A modern, responsive task management application built with React and TypeScript
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Kuraz-frontend.git
+git clone https://github.com/Dagi2212/Kuraz-frontend.git
 cd Kuraz-frontend
 
 # Install dependencies
